@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|c:\\users\\shihab\\desktop\\dot net\\labfinal\\labfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|solutionrelative:labfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|c:\\users\\shihab\\desktop\\dot net\\labfinal\\labfinal\\controllers\\favoritemoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|solutionrelative:labfinal\\controllers\\favoritemoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\labfinal\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|solutionrelative:labfinal\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\labfinal\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|solutionrelative:labfinal\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\bll\\services\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|solutionrelative:bll\\services\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\bll\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|solutionrelative:bll\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\bll\\services\\favoritemovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|solutionrelative:bll\\services\\favoritemovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\repos\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\labfinal\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|solutionrelative:labfinal\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\ef\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\repos\\ratingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\ratingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\repos\\favoritemovierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\favoritemovierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\repos\\watchlistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\watchlistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\ef\\tables\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\ef\\tables\\favoritemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\favoritemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\bll\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|solutionrelative:bll\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\bll\\dtos\\watchlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\watchlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\bll\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\bll\\dtos\\favoritemoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\favoritemoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\interfaces\\irating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\ef\\tables\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\interfaces\\imoviefeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\imoviefeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\interfaces\\ifavoritemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ifavoritemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\interfaces\\iwatchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iwatchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\ef\\tables\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB8427-385B-41C0-A463-6285DD57C086}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\labfinal\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49521D0-B00D-4BA7-8578-CB5E7283F078}|LabFinal\\LabFinal.csproj|solutionrelative:labfinal\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\migrations\\202501220019132_initw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501220019132_initw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\migrations\\202501212324417_initr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501212324417_initr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\migrations\\202501212125495_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501212125495_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\migrations\\202501212119418_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501212119418_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Final\\LabFinal\\DAL\\Repos\\MovieRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\migrations\\202501210249401_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501210249401_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\dal\\migrations\\202501210048215_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2304E72-701A-4CF0-8D37-8617F17FF82B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501210048215_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\Web.config",
+              "RelativeDocumentMoniker": "LabFinal\\Web.config",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\Web.config",
+              "RelativeToolTip": "LabFinal\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-31T15:57:08.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "LabFinal\\Controllers\\RatingController.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "LabFinal\\Controllers\\RatingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:48:35.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\Services\\RatingService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\RatingService.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\Services\\RatingService.cs",
+              "RelativeToolTip": "BLL\\Services\\RatingService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:21:40.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FavoriteMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\Services\\FavoriteMovieService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\FavoriteMovieService.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\Services\\FavoriteMovieService.cs",
+              "RelativeToolTip": "BLL\\Services\\FavoriteMovieService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:19:24.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WatchlistController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\Controllers\\WatchlistController.cs",
+              "RelativeDocumentMoniker": "LabFinal\\Controllers\\WatchlistController.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\Controllers\\WatchlistController.cs",
+              "RelativeToolTip": "LabFinal\\Controllers\\WatchlistController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:47:33.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavoriteMovieController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\Controllers\\FavoriteMovieController.cs",
+              "RelativeDocumentMoniker": "LabFinal\\Controllers\\FavoriteMovieController.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\Controllers\\FavoriteMovieController.cs",
+              "RelativeToolTip": "LabFinal\\Controllers\\FavoriteMovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:55:38.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Repos\\MovieRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\MovieRepo.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Repos\\MovieRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\MovieRepo.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:18:53.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WatchlistService.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\Services\\WatchlistService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\WatchlistService.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\Services\\WatchlistService.cs",
+              "RelativeToolTip": "BLL\\Services\\WatchlistService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:49:59.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "LabFinal\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "LabFinal\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:36:42.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\MovieContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\MovieContext.cs",
+              "RelativeToolTip": "DAL\\EF\\MovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:41:35.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RatingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Repos\\RatingRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\RatingRepo.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Repos\\RatingRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\RatingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T03:01:21.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavoriteMovieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Repos\\FavoriteMovieRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\FavoriteMovieRepo.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Repos\\FavoriteMovieRepo.cs*",
+              "RelativeToolTip": "DAL\\Repos\\FavoriteMovieRepo.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:38:44.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WatchlistRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Repos\\WatchlistRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\WatchlistRepo.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Repos\\WatchlistRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\WatchlistRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:28:30.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:58:43.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\Tables\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\User.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\Tables\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:06:23.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\Tables\\Movie.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Movie.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\Tables\\Movie.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Movie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:39:38.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FavoriteMovie.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\Tables\\FavoriteMovie.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\FavoriteMovie.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\Tables\\FavoriteMovie.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\FavoriteMovie.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:06:53.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\Services\\MovieService.cs*",
+              "RelativeToolTip": "BLL\\Services\\MovieService.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswDoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:26:42.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WatchlistDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\DTOs\\WatchlistDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\WatchlistDTO.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\DTOs\\WatchlistDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\WatchlistDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:12:02.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\DTOs\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\DTOs\\MovieDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\MovieDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:25:21.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FavoriteMovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\DTOs\\FavoriteMovieDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\FavoriteMovieDTO.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\DTOs\\FavoriteMovieDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\FavoriteMovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:33:41.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:01:58.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRating.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Interfaces\\IRating.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRating.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Interfaces\\IRating.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T03:00:01.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\Tables\\Rating.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Rating.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\Tables\\Rating.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Rating.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T02:42:11.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMovieFeatures.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Interfaces\\IMovieFeatures.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IMovieFeatures.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Interfaces\\IMovieFeatures.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IMovieFeatures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:19:09.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IFavoriteMovie.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Interfaces\\IFavoriteMovie.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IFavoriteMovie.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Interfaces\\IFavoriteMovie.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IFavoriteMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:27:35.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IWatchlist.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Interfaces\\IWatchlist.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IWatchlist.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Interfaces\\IWatchlist.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IWatchlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:23:26.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Watchlist.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\Tables\\Watchlist.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Watchlist.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\EF\\Tables\\Watchlist.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Watchlist.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:08:54.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:33:08.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:16:33.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "LabFinal\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\LabFinal\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "LabFinal\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:53:36.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:47:55.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "202501220019132_initw.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501220019132_initw.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501220019132_initw.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501220019132_initw.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501220019132_initw.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:19:18.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "202501212324417_initr.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501212324417_initr.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501212324417_initr.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501212324417_initr.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501212324417_initr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:24:46.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "202501212125495_init.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501212125495_init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501212125495_init.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501212125495_init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501212125495_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:25:54.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "202501212119418_table.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501212119418_table.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501212119418_table.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501212119418_table.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501212119418_table.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:19:47.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MovieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Final\\LabFinal\\DAL\\Repos\\MovieRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\All work\\Dot net\\Final\\LabFinal\\DAL\\Repos\\MovieRepo.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Final\\LabFinal\\DAL\\Repos\\MovieRepo.cs",
+              "RelativeToolTip": "..\\..\\All work\\Dot net\\Final\\LabFinal\\DAL\\Repos\\MovieRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:20:28.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "202501210048215_initDB.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501210048215_initDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501210048215_initDB.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501210048215_initDB.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501210048215_initDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:48:35.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "202501210249401_time.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501210249401_time.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501210249401_time.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\Dot net\\LabFinal\\DAL\\Migrations\\202501210249401_time.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501210249401_time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:49:45.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
