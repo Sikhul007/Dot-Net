@@ -1,0 +1,22 @@
+﻿@model TRP.DTOs.ProgramDTO
+@{
+    ViewBag.Title = "EditP";
+}
+
+<h2>Edit Program</h2>
+
+<form method="post">
+    <input type="hidden" value="@Model.ProgramId" name="ProgramId" />
+    <input type="hidden" value="@Model.ChannelId" name="ChannelId" />
+
+    <input type="text" value="@Model.ProgramName" placeholder="Program Name" name="ProgramName" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessage("ProgramName")</p>
+
+    <input type="text" value="@Model.AirTime" placeholder="Air Time" name="AirTime" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("AirTime")</span> <br />
+
+    <input type="text" value="@Model.TRPScore" placeholder="TRP Score" name="TRPScore" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("TRPScore")</span> <br />
+
+    <input type="submit" value="Edit" class="btn btn-success" />
+</form>

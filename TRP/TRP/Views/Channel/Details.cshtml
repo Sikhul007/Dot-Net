@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Channel Details";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="card shadow-lg">
+                <div class="card-body text-center">
+                    <h2 class="card-title mb-4">Channel Details</h2>
+
+                    <div class="mb-3">
+                        <h4>Channel Name:</h4>
+                        <h1 class="text-primary">@Model.ChannelName</h1>
+                    </div>
+
+                    <div class="mb-3">
+                        <h4>Established Year:</h4>
+                        <h3 class="text-secondary">@Model.EstablishedYear</h3>
+                    </div>
+
+                    <div class="mb-3">
+                        <h4>Country:</h4>
+                        <h3 class="text-success">@Model.Country</h3>
+                    </div>
+
+                    <a href="@Url.Action("List", "Channel")" class="btn btn-outline-primary mt-4">Back to List</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

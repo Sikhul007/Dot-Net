@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Registration";
+}
+
+<h2>Registration</h2>
+@{
+    if (TempData["Mgs"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["Mgs"]
+        </div>
+    }
+}
+<form method="post">
+    <input type="text" value="@Model.UserName" placeholder="Username" name="UserName" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessage("UserName")</p>
+
+    <input type="email" value="@Model.Email" placeholder="Email" name="Email" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessage("Email")</p>
+
+    <input type="password" value="@Model.Password" placeholder="Password" name="Password" class="form-control" />
+    <p class="text-danger">@Html.ValidationMessage("Password")</p>
+    
+    <input type="hidden" name="Role" value="User" />
+
+    <div class="text-center">
+        <input type="submit" value="Register" class="btn btn-primary" />
+    </div>
+</form>

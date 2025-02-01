@@ -1,0 +1,28 @@
+﻿@model IEnumerable<TRP.DTOs.ProgramDTO>
+@{
+    ViewBag.Title = "Program List for Channel";
+}
+
+<h2>Programs for Channel: @ViewBag.ChannelName</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Program Name</th>
+        <th>Air Time</th>
+        <th>TRP Score</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ProgramName</td>
+            <td>@item.AirTime</td>
+            <td>@item.TRPScore</td>
+            <td>
+                <a class="btn btn-primary" href="/Program/detailsP/@item.ProgramId">Details</a>
+                <a class="btn btn-warning" href="/Program/editP/@item.ProgramId">Edit</a>
+                <a class="btn btn-danger" href="/Program/deleteP/@item.ProgramId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

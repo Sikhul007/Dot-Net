@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|c:\\users\\shihab\\desktop\\all work\\dot net\\mid\\trp\\trp\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\channel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\channel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\channel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\channel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\program\\deletep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\program\\deletep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\channel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\channel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\channel\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\channel\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\auth\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\auth\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\program\\listp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\program\\listp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\program\\addprogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\program\\addprogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\dtos\\loggeduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\dtos\\loggeduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\channel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\channel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\program\\editp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\program\\editp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\ef\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\ef\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\ef\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\ef\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\trp\\views\\program\\detailsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B80CC0BE-4081-4A44-B604-5EB7BE2D558A}|TRP\\TRP.csproj|solutionrelative:trp\\views\\program\\detailsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChannelController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Controllers\\ChannelController.cs",
+              "RelativeDocumentMoniker": "TRP\\Controllers\\ChannelController.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Controllers\\ChannelController.cs",
+              "RelativeToolTip": "TRP\\Controllers\\ChannelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:35:04.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteP.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Program\\DeleteP.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Program\\DeleteP.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Program\\DeleteP.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Program\\DeleteP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T01:55:46.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Channel\\Details.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Channel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Channel\\Details.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Channel\\Details.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:09:33.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TRP\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TRP\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:00:39.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\EF\\User.cs",
+              "RelativeDocumentMoniker": "TRP\\EF\\User.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\EF\\User.cs",
+              "RelativeToolTip": "TRP\\EF\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:59:24.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Controllers\\ProgramController.cs",
+              "RelativeDocumentMoniker": "TRP\\Controllers\\ProgramController.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Controllers\\ProgramController.cs",
+              "RelativeToolTip": "TRP\\Controllers\\ProgramController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswKIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:45:07.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Channel\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Channel\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Channel\\Delete.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Channel\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:50:49.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Channel\\Create.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Channel\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Channel\\Create.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Channel\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T01:00:38.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Channel\\List.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Channel\\List.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Channel\\List.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Channel\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T02:08:32.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "TRP\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "TRP\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:03:15.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:29:30.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TRP\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "TRP\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:20:11.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Auth\\Registration.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Auth\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Auth\\Registration.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Auth\\Registration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:05:29.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListP.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Program\\ListP.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Program\\ListP.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Program\\ListP.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Program\\ListP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T09:48:24.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddProgram.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Program\\AddProgram.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Program\\AddProgram.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Program\\AddProgram.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Program\\AddProgram.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T09:37:07.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProgramDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\DTOs\\ProgramDTO.cs",
+              "RelativeDocumentMoniker": "TRP\\DTOs\\ProgramDTO.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\DTOs\\ProgramDTO.cs",
+              "RelativeToolTip": "TRP\\DTOs\\ProgramDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:54:44.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoggedUser.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\DTOs\\LoggedUser.cs",
+              "RelativeDocumentMoniker": "TRP\\DTOs\\LoggedUser.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\DTOs\\LoggedUser.cs",
+              "RelativeToolTip": "TRP\\DTOs\\LoggedUser.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:21:00.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChannelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\DTOs\\ChannelDTO.cs",
+              "RelativeDocumentMoniker": "TRP\\DTOs\\ChannelDTO.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\DTOs\\ChannelDTO.cs",
+              "RelativeToolTip": "TRP\\DTOs\\ChannelDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:40:17.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Channel\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Channel\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Channel\\Edit.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Channel\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:35:53.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditP.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Program\\EditP.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Program\\EditP.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Program\\EditP.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Program\\EditP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T01:17:30.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\EF\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "TRP\\EF\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\EF\\Model1.Context.tt",
+              "RelativeToolTip": "TRP\\EF\\Model1.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T07:16:21.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Channel.cs",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\EF\\Channel.cs",
+              "RelativeDocumentMoniker": "TRP\\EF\\Channel.cs",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\EF\\Channel.cs",
+              "RelativeToolTip": "TRP\\EF\\Channel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:53:42.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DetailsP.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Program\\DetailsP.cshtml",
+              "RelativeDocumentMoniker": "TRP\\Views\\Program\\DetailsP.cshtml",
+              "ToolTip": "C:\\Users\\SHIHAB\\Desktop\\All work\\Dot net\\Mid\\TRP\\TRP\\Views\\Program\\DetailsP.cshtml",
+              "RelativeToolTip": "TRP\\Views\\Program\\DetailsP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T00:12:14.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

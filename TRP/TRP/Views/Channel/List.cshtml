@@ -1,0 +1,58 @@
+﻿@model IEnumerable<TRP.DTOs.ChannelDTO>
+@{
+    ViewBag.Title = "List"; var user = Session["user"] as TRP.EF.User;
+    TRP.DTOs.UserDTO userDTO = null;
+    if (user != null)
+    {
+        userDTO = new TRP.DTOs.UserDTO
+        {
+            // Map the properties from user to userDTO
+            UserId = user.UserId,
+            UserName = user.UserName,
+            Role = user.Role
+        };
+    }
+    var isAdmin = userDTO != null && userDTO.Role == "Admin";
+
+}
+
+<h2>List</h2>
+
+@{
+    if (TempData["Mgs"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["Mgs"]
+        </div>
+    }
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Channel Name</th>
+        <th>Established Year</th>
+        <th>Country</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ChannelName</td>
+            <td>@item.EstablishedYear</td>
+            <td>@item.Country</td>
+            <td>
+                <a class="btn btn-primary" href="/Channel/details/@item.ChannelId">Details</a>
+                @if (isAdmin)
+                {
+                    <a class="btn btn-warning" href="/Channel/edit/@item.ChannelId">Edit</a>
+                    <a class="btn btn-danger" href="/Channel/delete/@item.ChannelId">Delete</a>
+                    <a class="btn btn-primary" href="@Url.Action("AddProgram", "Program", new { chId = item.ChannelId })">Add New Program</a>
+                    <a class="btn btn-info" href="@Url.Action("ListP", "Program", new { channelId = item.ChannelId })">View Programs</a>
+                }
+            </td>
+        </tr>
+    }
+</table>
+@if (isAdmin)
+{
+    <a class="btn btn-primary" href="/Channel/create">Create</a>
+}

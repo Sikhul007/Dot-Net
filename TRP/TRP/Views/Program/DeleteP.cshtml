@@ -1,0 +1,30 @@
+﻿@model TRP.DTOs.ProgramDTO
+@{
+    ViewBag.Title = "Delete Program";
+}
+
+@if (TempData["Msg"] == null)
+{
+    <h2>Delete Program</h2>
+    <h1>Are you sure you want to delete this program?</h1>
+    <h3>@Model.ProgramName</h3>
+    <h3>Air Time: @Model.AirTime</h3>
+    <h3>TRP Score: @Model.TRPScore</h3>
+
+    <form method="post">
+        <input type="hidden" name="ProgramId" value="@Model.ProgramId" />
+        <input type="hidden" name="ChannelId" value="@Model.ChannelId" />
+        <button type="submit" class="btn btn-danger" name="dcsn" value="Yes">Yes</button>
+        <button type="submit" class="btn btn-warning" name="dcsn" value="No">No</button>
+    </form>
+}
+else
+{
+    <div class="alert alert-danger">
+        @TempData["Msg"]
+    </div>
+    <a href="@Url.Action("ListP", "Program", new { channelId = ViewBag.ChannelId })" class="btn btn-primary">Back to List</a>
+}
+
+
+

@@ -1,0 +1,30 @@
+﻿@model TRP.DTOs.ProgramDTO
+@{
+    ViewBag.Title = "Add Program";
+}
+
+<h2>Add Program</h2>
+
+<div class="form-group">
+    <label>Channel Name:</label>
+    <span>@ViewBag.ChannelName</span>
+</div>
+
+<form method="post">
+    <input type="hidden" name="ChannelId" value="@Model.ChannelId" />
+
+    <div class="form-group">
+        <label for="ProgramName">Program Name</label>
+        <input type="text" class="form-control" id="ProgramName" name="ProgramName" value="@Model.ProgramName" />
+    </div>
+    <div class="form-group">
+        <label for="TRPScore">TRP Score</label>
+        <input type="text" class="form-control" id="TRPScore" name="TRPScore" value="@Model.TRPScore" />
+    </div>
+    <div class="form-group">
+        <label for="AirTime">Air Time</label>
+        <input type="time" class="form-control" id="AirTime" name="AirTime" value="@Model.AirTime" />
+    </div>
+
+    <input type="submit" class="btn btn-success" value="Create Program" />
+</form>
