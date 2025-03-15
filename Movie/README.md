@@ -59,4 +59,4 @@ contact **Shihab** at sikhulshihab@gmail.com.
 
 ## Project picture.
 
-![Project Picture](https://github.com/Sikhul007/Dot-Net/blob/main/Movie/images/https://github.com/Sikhul007/Dot-Net/blob/main/Movie/images/Dotnet.jpg?raw=true.png)
+![Project Picture](https://github.com/Sikhul007/Dot-Net/blob/main/Movie/images/https://github.com/Sikhul007/Dot-Net/blob/main/Movie/images/Dotnet.jpg?raw=true.jpg)
